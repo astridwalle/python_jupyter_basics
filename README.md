@@ -8,3 +8,4 @@ Notebooks for showcasing basic functionalities of python and jupyter
 - Visualization
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astridwalle/python_jupyter_basics/HEAD?filepath=DataVisualization%2F2_Visualization.ipynb)
 - ML
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astridwalle/python_jupyter_basics/master)
